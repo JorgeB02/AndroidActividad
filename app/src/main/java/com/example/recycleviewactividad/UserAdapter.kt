@@ -31,6 +31,7 @@ class UserAdapter (
 
         holder.tvUserName.text = user.name
         holder.tvLastName.text = user.description
+
         Picasso.get().load(user.avartarURL).placeholder(R.drawable.th).into(holder.ivAvatar)
     }
 
