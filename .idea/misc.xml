@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jorge/.gradle/caches/transforms-3/048aa7fd5d36c6394db3fd983de2d94d/transformed/recyclerview-selection-1.1.0/res/drawable/selection_band_overlay.xml" value="0.1" />
+        <entry key="..\:/Users/jorge/ClaseAndroid/RecycleViewActividad/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/jorge/ClaseAndroid/RecycleViewActividad/app/src/main/res/layout/activity_detail_user.xml" value="0.18070652173913043" />
+        <entry key="..\:/Users/jorge/ClaseAndroid/RecycleViewActividad/app/src/main/res/layout/activity_main.xml" value="0.340625" />
+        <entry key="..\:/Users/jorge/ClaseAndroid/RecycleViewActividad/app/src/main/res/layout/item_repositorio.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/jorge/ClaseAndroid/RecycleViewActividad/app/src/main/res/xml/network_security_config.xml" value="0.14402173913043478" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
